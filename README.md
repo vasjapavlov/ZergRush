@@ -1,9 +1,9 @@
 # ZergRush
 Demolish any screen with this simple piece of code
 
-# Initially developed by Vasja Pavlov as a lab day project at Truecaller
+## Initially developed by Vasja Pavlov as a lab day project at Truecaller
 
-# Future improvements
+## Future improvements
 
  - eliminate overlapping frames which cause flickering in animations
  - make copies of the whole view hieararchly so that we can undo changes 
